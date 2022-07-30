@@ -58,8 +58,10 @@ TestResults/
 ehthumbs.db
 Icon?
 Thumbs.db
-[Bb]in
-[Oo]bj
+[Bb]in/
+[Oo]bj/
+obj/
+bin/
 [Tt]est[Rr]esults
 *.suo
 *.user
